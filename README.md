@@ -1,6 +1,8 @@
-# Muscle-Controlled Drone with OpenBCI and DJI Tello
+# Muscle-Controlled Drone with OpenBCI and Robomaster TT (DJI) Tello
 
 Control a Robomaster TT (DJI) Tello drone using EMG (electromyography) signals from your muscles via OpenBCI hardware and Lab Streaming Layer (LSL) protocol.
+
+![](robomaster-tello-tt.jpg)
 
 ## Overview
 
