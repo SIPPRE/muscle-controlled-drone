@@ -6,7 +6,7 @@ Control a Robomaster TT (DJI) Tello drone using EMG (electromyography) signals f
 
 This project demonstrates biocontrol interfaces by translating muscle contractions into drone movement commands. The system captures EMG signals from your muscles using OpenBCI hardware, streams the data via LSL, and processes it in real-time to control a Tello drone.
 
-![OpenBCI GUI Screenshot](openbci_gui_screenshot.png)
+![OpenBCI GUI Screenshot](robomaster-tello-tt.jpg)
 *OpenBCI GUI showing EMG signals and LSL streaming setup*
 
 ## Features
